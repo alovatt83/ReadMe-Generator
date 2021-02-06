@@ -1,10 +1,10 @@
 
-<h1 align="center">ReadMe Generator 👋</h1>
+<h1 align="center">ReadMe Generator</h1>
   
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Mozilla-white)<br />
 
 ## Description
-🔍 Generates Readme
+Auto ReadMe Generator
 
 ## Table of Contents
 - [Description](#description)
@@ -18,35 +18,37 @@
 - [Questions](#questions)
 
 ## Installation
-Install Node
+Install Node / node index.js
 
 ## Usage
-Makin ReadMes
+Automatically generate readmes
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/online-schedule/assets/images/screenshot.png)
 
 
-## Deployed Link
+## Deployed
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Mozilla-white)
 <br />
-This application is covered by the MIT license. 
+This application is covered by the Mozilla license. 
 
 ## Contributing
-Allen
+Go to repo, create your own branch and offer improvements.
 
 ## Tests
-✏️ No
+N/A
 
 ## Questions
-Nothing<br />
+www.reportissues.com<br />
 <br />
 Find me on GitHub: [alovatt83](https://github.com/alovatt83)<br />
 <br />
-Email me with any questions: allen@allen.com<br /><br />
+Call me @: (905) 515-7295
+<br />
+Email me with any questions: allenlovatt@gmail.com<br /><br />
 
-This README was generated with ❤️ by [README-generator](https://github.com/alovat83/readme-generator)
+This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
     

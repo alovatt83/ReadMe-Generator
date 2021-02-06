@@ -1,12 +1,12 @@
 // generateReadme function populating the README.md
-function generateReadme(answer) {
+function generateReadme(input) {
     return `
-<h1 align="center">${answer.title} 👋</h1>
+<h1 align="center">${input.title}</h1>
   
-![badge](https://img.shields.io/badge/license-${answer.license}-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-${input.license}-white)<br />
 
 ## Description
-🔍 ${answer.describe}
+${input.describe}
 
 ## Table of Contents
 - [Description](#description)
@@ -20,37 +20,39 @@ function generateReadme(answer) {
 - [Questions](#questions)
 
 ## Installation
-${answer.installInstructions}
+${input.installInstructions}
 
 ## Usage
-${answer.purpose}
+${input.purpose}
 
 ## Screenshot
-![Homepage Screenshot](${answer.screenshot})
+![Homepage Screenshot](${input.screenshot})
 
 
-## Deployed Link
-${answer.deployed} 
+## Deployed
+${input.deployed} 
 
 ## License
-![badge](https://img.shields.io/badge/license-${answer.license}-brightgreen)
+![badge](https://img.shields.io/badge/license-${input.license}-white)
 <br />
-This application is covered by the ${answer.license} license. 
+This application is covered by the ${input.license} license. 
 
 ## Contributing
-${answer.contributing}
+${input.contributing}
 
 ## Tests
-✏️ ${answer.tests}
+${input.tests}
 
 ## Questions
-${answer.questions}<br />
+${input.questions}<br />
 <br />
-Find me on GitHub: [${answer.username}](https://github.com/${answer.username})<br />
+Find me on GitHub: [${input.username}](https://github.com/${input.username})<br />
 <br />
-Email me with any questions: ${answer.email}<br /><br />
+Call me @: ${input.phone}
+<br />
+Email me with any questions: ${input.email}<br /><br />
 
-This README was generated with ❤️ by [README-generator](https://github.com/alovat83/readme-generator)
+This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
     `;
   }
   

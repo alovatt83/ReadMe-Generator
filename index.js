@@ -11,7 +11,7 @@ function userInput(){
         {
             type: "input",
             name: "title",
-            message: "What is the project title?",
+            message: "What is the project title? ",
         },
         {
             type: "input",
@@ -21,22 +21,22 @@ function userInput(){
         {
             type: "input",
             name: "installInstructions",
-            message: "Describe the installation process if any: ",
+            message: "Enter installation instructions: ",
         },
         {
             type: "input",
             name: "purpose",
-            message: "What is this project usage for?"
+            message: "Enter project usage: "
         },
         {
             type: "input",
             name: "screenshot",
-            message: "Enter link to homepage screenshot."
+            message: "Enter link to homepage screenshot: "
         },
         {
             type: "input",
             name: "deployed",
-            message: "Enter deployed application link."
+            message: "Enter deployed application link: "
         },
         {
             type: "list",
@@ -55,22 +55,27 @@ function userInput(){
         {
             type: "input",
             name: "contributing",
-            message: "Who are the contributors of this projects?"
+            message: "How to contribute further: "
         },
         {
             type: "input",
             name: "tests",
-            message: "Is there a test included?"
+            message: "Enter testing information: "
         },
         {
             type: "input",
             name: "questions",
-            message: "What do I do if I have an issue? "
+            message: "Report issues here (enter link): "
         },
         {
             type: "input",
             name: "username",
-            message: "Please enter your GitHub username: "
+            message: "Enter your GitHub username: "
+        },
+        {
+            type: "input",
+            name: "phone",
+            message: "Please enter your phone number: "
         },
         {
             type: "input",
@@ -84,8 +89,8 @@ function userInput(){
   async function init() {
     try {
         // Ask user questions and generate responses
-        const answer = await userInput();
-        const generateContent = generateReadme(answer);
+        const input = await userInput();
+        const generateContent = generateReadme(input);
         // Write new README.md to dist directory
         await fileOutput('./generatedReadMe/README.md', generateContent);
      
