@@ -1,10 +1,9 @@
-
-<h1 align="center">ReadMe Generator</h1>
+<h1 align="center">ReadMe</h1>
   
-![badge](https://img.shields.io/badge/license-Mozilla-white)<br />
+![badge](https://img.shields.io/badge/license-GNU-white)<br />
 
 ## Description
-Auto ReadMe Generator
+Autogen ReadMe
 
 ## Table of Contents
 - [Description](#description)
@@ -15,38 +14,42 @@ Auto ReadMe Generator
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Code Example](#codeExample)
 - [Questions](#questions)
 
 ## Installation
-Install Node / node index.js
+node index.js
 
 ## Usage
-Automatically generate readmes
+Quickly Generate ReadMe
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/online-schedule/assets/images/screenshot.png)
 
 
-## Deployed
+## Deployed Link
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
-![badge](https://img.shields.io/badge/license-Mozilla-white)
+![badge](https://img.shields.io/badge/license-GNU-white)
 <br />
-This application is covered by the Mozilla license. 
+This application is covered by the GNU license. 
 
 ## Contributing
-Go to repo, create your own branch and offer improvements.
+Create branch and merge code.
 
 ## Tests
 N/A
 
+## Code Example
+N/A
+
 ## Questions
-www.reportissues.com<br />
+Report any discovered issues here: www.reportissues.com<br />
 <br />
 Find me on GitHub: [alovatt83](https://github.com/alovatt83)<br />
 <br />
-Call me @: (905) 515-7295
+Call me @: 9055157295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
