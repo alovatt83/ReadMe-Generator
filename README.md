@@ -26,6 +26,7 @@ Quickly create quality ReadMe Files
 
 ## Screenshot
 [![Watch the video](https://media.giphy.com/media/b13zVNTKH1bdV5vTfZ/giphy.gif)](https://youtu.be/WBVYaun3JnU)
+Click on the GIF to redirect to HD video.
 
 
 ## Deployed
