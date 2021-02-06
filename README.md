@@ -25,7 +25,7 @@ Install Node > execute in terminal: node index.js
 Quickly create quality ReadMe Files
 
 ## Screenshot
-![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
+![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenrecording.webm)
 
 
 ## Deployed
