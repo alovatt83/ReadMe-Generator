@@ -16,7 +16,7 @@ ${input.describe}
 - [Deployed](#deployed)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Testing](#testing)
 - [Questions](#questions)
 - [Contact](#contact)
 
@@ -41,7 +41,7 @@ This application is covered by the ${input.license} license.
 ## Contributing
 ${input.contributing}
 
-## Tests
+## Testing
 ${input.tests}
 
 ## Questions
@@ -55,7 +55,7 @@ Call me @: ${input.phone}
 <br />
 Email me with any questions: ${input.email}<br /><br />
 
-This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
+This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
     `;
   }
   
