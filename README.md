@@ -25,7 +25,7 @@ Install Node > execute in terminal: node index.js
 Quickly create quality ReadMe Files
 
 ## Screenshot
-[![Watch the video](https://giphy.com/gifs/b13zVNTKH1bdV5vTfZ)](https://youtu.be/WBVYaun3JnU)
+[![Watch the video](https://media.giphy.com/media/b13zVNTKH1bdV5vTfZ/giphy.gif)](https://youtu.be/WBVYaun3JnU)
 
 
 ## Deployed
