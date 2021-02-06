@@ -1,11 +1,11 @@
-// Declaring the dependencies and variables
+// Assign constant values
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
-const generateReadme = require("./utils/generateReadme.js")
+const generateReadme = require("./utilities/generateReadme.js")
 const fileOutput = util.promisify(fs.writeFile);
 
-//Prompt the user questions to populate the README.md
+//Request user input to export to GenerateReadme.JS
 function userInput(){
     return inquirer.prompt([
         {
@@ -44,12 +44,9 @@ function userInput(){
             message: "Chose the appropriate license for this project: ",
             choices: [
                 "Apache",
-                "Academic",
                 "GNU",
-                "ISC",
                 "MIT",
                 "Mozilla",
-                "Open"
             ]
         },
         {
@@ -64,8 +61,13 @@ function userInput(){
         },
         {
             type: "input",
+            name: "codeExample",
+            message: "Enter Code Examples: "
+        },
+        {
+            type: "input",
             name: "questions",
-            message: "Report issues here (enter link): "
+            message: "Report issues here (enter hyperlink or e-mail): "
         },
         {
             type: "input",
@@ -75,7 +77,7 @@ function userInput(){
         {
             type: "input",
             name: "phone",
-            message: "Please enter your phone number: "
+            message: "Please enter your phone number [Format (555) 555-5555]: "
         },
         {
             type: "input",
@@ -85,13 +87,13 @@ function userInput(){
     ]);
 } 
 
-// Async function using util.promisify 
+// Async function to enable await keyword
   async function init() {
     try {
-        // Ask user questions and generate responses
+        // Request user input for ReadMe generation.
         const input = await userInput();
         const generateContent = generateReadme(input);
-        // Write new README.md to dist directory
+        // File output to utilities folder.
         await fileOutput('./generatedReadMe/README.md', generateContent);
      
     }   catch(err) {

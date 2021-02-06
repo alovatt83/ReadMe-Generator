@@ -1,4 +1,4 @@
-// ReadMe Skeleton
+// generateReadme function populating the README.md
 function generateReadme(input) {
     return `
 <h1 align="center">${input.title}</h1>
