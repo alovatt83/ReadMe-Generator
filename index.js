@@ -25,7 +25,7 @@ function userInput(){
         },
         {
             type: "input",
-            name: "purpose",
+            name: "usage",
             message: "Enter projects primary usage: "
         },
         {
@@ -83,15 +83,15 @@ function userInput(){
 } 
 
 // Async function to enable await keyword
-  async function init() {
+    async function init() {
     try {
         // Request user input for ReadMe generation.
-        const input = await userInput();
-        const generateContent = generateReadme(input);
+    const input = await userInput();
+    const generateContent = generateReadme(input);
         // File output to utilities folder.
-        await fileOutput('./generatedReadMe/README.md', generateContent);
+    await fileOutput('./generatedReadMe/README.md', generateContent);
      
-    }   catch(err) {
+}   catch(err) {
         
     }
   }
