@@ -1,6 +1,6 @@
 <h1 align="center">ReadMe</h1>
   
-![badge](https://img.shields.io/badge/license-GNU-white)<br />
+![badge](https://img.shields.io/badge/license-GNU-orange)<br />
 
 ## Description
 Autogen ReadMe
@@ -31,7 +31,7 @@ Quickly Generate ReadMe
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache 2.0-white)
+![badge](https://img.shields.io/badge/license-GNU-orange)
 <br />
 This application is covered by the GNU license. 
 
