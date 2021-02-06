@@ -21,7 +21,7 @@ Automatically generate ReadMe files
 Install Node > execute: node indes.js
 
 ## Usage
-undefined
+Quickly create quality ReadMe files.
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
