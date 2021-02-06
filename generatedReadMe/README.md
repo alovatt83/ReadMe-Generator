@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
-Automatically create ReadMe files.
+Automatically generate ReadMe files
 
 ## Table of Contents
 - [Description](#description)
@@ -18,10 +18,10 @@ Automatically create ReadMe files.
 - [Contact](#contact)
 
 ## Installation
-Install Node > execute: node index.js
+Install Node > execute: node indes.js
 
 ## Usage
-Quickly generate quality ReadMe files.
+undefined
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
