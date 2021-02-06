@@ -26,7 +26,7 @@ Install Node > execute: node index.js
 Quickly Generate Quality ReadMe files.
 
 ## Screenshot
-![Homepage Screenshot](https://alovatt83.github.io/readme-generator/assets/images/screenshot.png)
+![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
 
 
 ## Deployed
