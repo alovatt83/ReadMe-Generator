@@ -17,7 +17,6 @@ ${input.describe}
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Code](#code)
 - [Questions](#questions)
 - [Contact](#contact)
 
@@ -25,7 +24,7 @@ ${input.describe}
 ${input.installInstructions}
 
 ## Usage
-${input.purpose}
+${input.usage}
 
 ## Screenshot
 ![Homepage Screenshot](${input.screenshot})
@@ -44,9 +43,6 @@ ${input.contributing}
 
 ## Tests
 ${input.tests}
-
-## Code
-${input.codeExample}
 
 ## Questions
 Report any discovered issues here: ${input.questions}<br />

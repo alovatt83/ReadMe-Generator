@@ -26,7 +26,7 @@ function userInput(){
         {
             type: "input",
             name: "purpose",
-            message: "Enter project usage: "
+            message: "Enter projects primary usage: "
         },
         {
             type: "input",
@@ -58,11 +58,6 @@ function userInput(){
             type: "input",
             name: "tests",
             message: "Enter testing information: "
-        },
-        {
-            type: "input",
-            name: "codeExample",
-            message: "Example a single line of code: "
         },
         {
             type: "input",
