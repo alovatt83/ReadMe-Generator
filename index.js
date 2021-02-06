@@ -62,7 +62,7 @@ function userInput(){
         {
             type: "input",
             name: "codeExample",
-            message: "Enter Code Examples: "
+            message: "Example a single line of code: "
         },
         {
             type: "input",

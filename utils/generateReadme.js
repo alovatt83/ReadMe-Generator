@@ -17,7 +17,7 @@ ${input.describe}
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Code](#codeExample)
+- [Code](#code)
 - [Questions](#questions)
 - [Contact](#contact)
 
