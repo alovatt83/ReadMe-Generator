@@ -31,7 +31,7 @@ Quickly Generate ReadMe
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
-![badge](https://img.shields.io/badge/license-GNU-white)
+![badge](https://img.shields.io/badge/license-Apache 2.0-white)
 <br />
 This application is covered by the GNU license. 
 
