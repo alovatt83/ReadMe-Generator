@@ -1,6 +1,6 @@
 <h1 align="center">ReadMe</h1>
   
-![badge](https://img.shields.io/badge/license-GNU-orange)<br />
+![badge](https://img.shields.io/badge/license-Apache-2.0-orange)<br />
 
 ## Description
 Autogen ReadMe
