@@ -1,16 +1,10 @@
-<h1 align="center">ReadMe</h1>
+
+<h1 align="center">ReadMe Generator</h1>
   
-<<<<<<< HEAD
-![badge](https://img.shields.io/badge/license-Mozilla-orange)<br />
+![badge](https://img.shields.io/badge/license-Apache-orange)<br />
 
 ## Description
-Automatically Generate ReadMe Files
-=======
-![badge](https://img.shields.io/badge/license-Apache-2.0-orange)<br />
-
-## Description
-Autogen ReadMe
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
+Generate Readme File Automatically
 
 ## Table of Contents
 - [Description](#description)
@@ -21,26 +15,15 @@ Autogen ReadMe
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-<<<<<<< HEAD
 - [Code](#codeExample)
-=======
-- [Code](#code)
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
 - [Questions](#questions)
 - [Contact](#contact)
 
 ## Installation
-<<<<<<< HEAD
-Install Node / Run node index.js
+Install Node / node index.js
 
 ## Usage
-Quickly Generate Quality ReadMe Files
-=======
-node index.js
-
-## Usage
-Quickly Generate ReadMe
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
+Quickly create quality readme files
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/online-schedule/assets/images/screenshot.png)
@@ -50,44 +33,28 @@ Quickly Generate ReadMe
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
-<<<<<<< HEAD
-![badge](https://img.shields.io/badge/license-Mozilla-orange)
-=======
-![badge](https://img.shields.io/badge/license-GNU-orange)
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
+![badge](https://img.shields.io/badge/license-Apache-orange)
 <br />
-This application is covered by the GNU license. 
+This application is covered by the Apache license. 
 
 ## Contributing
-<<<<<<< HEAD
-Visit our repo and branch in.
-=======
-Create branch and merge code.
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
+Hit up our repo and add a branch.
 
 ## Tests
 N/A
 
 ## Code
-<<<<<<< HEAD
 // Assign constant values
 
 ## Questions
-Report any discovered issues here:         },<br />
-=======
-N/A
-
-## Questions
-Report any discovered issues here: www.reportissues.com<br />
->>>>>>> 2b183a10f7145d044ae1dc79aa3a5f0bf89eb011
+Report any discovered issues here:     return inquirer.prompt([<br />
 <br />
 
 ## Contact
 Find me on GitHub: [alovatt83](https://github.com/alovatt83)<br />
 <br />
-Call me @: 9055157295
+Call me @: (905) 515-7295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
 This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
-    
