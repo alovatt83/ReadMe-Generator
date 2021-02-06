@@ -2,31 +2,41 @@
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
-const generateReadme = require("./utils/generateReadme")
-const writeFileAsync = util.promisify(fs.writeFile);
+const generateReadme = require("./utils/generateReadme.js")
+const fileOutput = util.promisify(fs.writeFile);
 
 //Prompt the user questions to populate the README.md
-function promptUser(){
+function userInput(){
     return inquirer.prompt([
         {
             type: "input",
-            name: "projectTitle",
+            name: "title",
             message: "What is the project title?",
         },
         {
             type: "input",
-            name: "description",
+            name: "describe",
             message: "Write a brief description of your project: "
         },
         {
             type: "input",
-            name: "installation",
+            name: "installInstructions",
             message: "Describe the installation process if any: ",
         },
         {
             type: "input",
-            name: "usage",
+            name: "purpose",
             message: "What is this project usage for?"
+        },
+        {
+            type: "input",
+            name: "screenshot",
+            message: "Enter link to homepage screenshot."
+        },
+        {
+            type: "input",
+            name: "deployed",
+            message: "Enter deployed application link."
         },
         {
             type: "list",
@@ -74,13 +84,13 @@ function promptUser(){
   async function init() {
     try {
         // Ask user questions and generate responses
-        const answers = await promptUser();
-        const generateContent = generateReadme(answers);
+        const answer = await userInput();
+        const generateContent = generateReadme(answer);
         // Write new README.md to dist directory
-        await writeFileAsync('./dist/README.md', generateContent);
-        console.log('✔️  Successfully wrote to README.md');
+        await fileOutput('./generatedReadMe/README.md', generateContent);
+     
     }   catch(err) {
-        console.log(err);
+        
     }
   }
   
