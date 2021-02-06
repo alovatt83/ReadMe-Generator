@@ -52,5 +52,5 @@ Call me @: (905) 515-7295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
-This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
+This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
     
