@@ -14,7 +14,7 @@ Autogen ReadMe
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Code](#codeExample)
+- [Code](#code)
 - [Questions](#questions)
 
 ## Installation
@@ -27,7 +27,7 @@ Quickly Generate ReadMe
 ![Homepage Screenshot](https://alovatt83.github.io/online-schedule/assets/images/screenshot.png)
 
 
-## Deployed Link
+## Deployed
 https://runtime-terrors-organization.github.io/covid-dashboard-application/ 
 
 ## License
