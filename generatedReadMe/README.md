@@ -1,10 +1,9 @@
-
 <h1 align="center">ReadMe Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
-Automatically generate ReadMe files.
+Automatically create ReadMe files.
 
 ## Table of Contents
 - [Description](#description)
@@ -15,7 +14,6 @@ Automatically generate ReadMe files.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Code](#codeExample)
 - [Questions](#questions)
 - [Contact](#contact)
 
@@ -23,7 +21,7 @@ Automatically generate ReadMe files.
 Install Node > execute: node index.js
 
 ## Usage
-Quickly Generate Quality ReadMe files.
+Quickly generate quality ReadMe files.
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
@@ -38,13 +36,10 @@ https://github.com/alovatt83/ReadMe-Generator
 This application is covered by the MIT license. 
 
 ## Contributing
-Head to our repo and request branch access.
+Jump on our repo and request branch access.
 
 ## Tests
 Tested on macOS Big Sur
-
-## Code
-undefined
 
 ## Questions
 Report any discovered issues here: issues@allenlovatt.com<br />
@@ -53,7 +48,7 @@ Report any discovered issues here: issues@allenlovatt.com<br />
 ## Contact
 Find me on GitHub: [alovatt83](https://github.com/alovatt83)<br />
 <br />
-Call me @: (905) 555-7295
+Call me @: (905) 515-7295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
