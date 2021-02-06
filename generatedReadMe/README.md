@@ -10,11 +10,11 @@ Autogen ReadMe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
-- [Deployed Link](#deployed)
+- [Deployed](#deployed)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Code Example](#codeExample)
+- [Code](#codeExample)
 - [Questions](#questions)
 
 ## Installation
@@ -41,7 +41,7 @@ Create branch and merge code.
 ## Tests
 N/A
 
-## Code Example
+## Code
 N/A
 
 ## Questions
