@@ -22,7 +22,7 @@ Automatically generate ReadMe files.
 Install Node > execute in terminal: node index.js
 
 ## Usage
-Quickly create quality ReadMe Files .
+Quickly create quality ReadMe Files
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
@@ -53,4 +53,4 @@ Call me @: (905) 555-7295
 <br />
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
-This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
+This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovatt83/ReadMe-Generator)
