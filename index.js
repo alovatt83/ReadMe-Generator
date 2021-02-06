@@ -1,11 +1,11 @@
-// Assign constant values
+        // Assign constant values
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 const generateReadme = require("./utilities/generateReadme.js")
 const fileOutput = util.promisify(fs.writeFile);
 
-//Request user input to export to GenerateReadme.JS
+        //Request user input to export to GenerateReadme.JS
 function userInput(){
     return inquirer.prompt([
         {
@@ -43,7 +43,7 @@ function userInput(){
             name: "license",
             message: "Chose the appropriate license for this project: ",
             choices: [
-                "Apache",
+                "Apache2",
                 "GNU",
                 "MIT",
                 "Mozilla",
@@ -82,7 +82,7 @@ function userInput(){
     ]);
 } 
 
-// Async function to enable await keyword
+        // Async function to enable await keyword
     async function init() {
     try {
         // Request user input for ReadMe generation.

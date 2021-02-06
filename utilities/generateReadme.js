@@ -55,7 +55,7 @@ Call me @: ${input.phone}
 <br />
 Email me with any questions: ${input.email}<br /><br />
 
-This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
+This ReadMe Generator Was Made by [ADL Software Solutions](https://github.com/alovatt83/ReadMe-Generator)
     `;
   }
   
