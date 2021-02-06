@@ -21,11 +21,7 @@ Automatically generate ReadMe files
 Install Node > execute: node indes.js
 
 ## Usage
-<<<<<<< HEAD
-undefined
-=======
 Quickly create quality ReadMe files.
->>>>>>> ec6de929514b6d3c10f63dc17467b9165e9a01d1
 
 ## Screenshot
 ![Homepage Screenshot](https://alovatt83.github.io/ReadMe-Generator/assets/images/screenshot.png)
@@ -57,8 +53,4 @@ Call me @: (905) 515-7295
 Email me with any questions: allenlovatt@gmail.com<br /><br />
 
 This ReadDMe Generator Was Made by [ADL Software Solutions](https://github.com/alovat83/readme-generator)
-<<<<<<< HEAD
     
-=======
-    
->>>>>>> ec6de929514b6d3c10f63dc17467b9165e9a01d1
