@@ -13,7 +13,7 @@ Automatically generate ReadMe files.
 - [Deployed](#deployed)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Testing](#testing)
 - [Questions](#questions)
 - [Contact](#contact)
 
@@ -38,7 +38,7 @@ This application is covered by the MIT license.
 ## Contributing
 Jump on our repo and request branch access.
 
-## Tests
+## Testing
 Tested on macOS Big Sur
 
 ## Questions
