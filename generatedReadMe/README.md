@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
-Automatically generate ReadMe files
+Automatically generate ReadMe files.
 
 ## Table of Contents
 - [Description](#description)
@@ -18,7 +18,7 @@ Automatically generate ReadMe files
 - [Contact](#contact)
 
 ## Installation
-Install Node > execute: node indes.js
+Install Node > execute: node index.js
 
 ## Usage
 Quickly create quality ReadMe files.
