@@ -1,6 +1,6 @@
 <h1 align="center">ReadMe Generator</h1>
   
-![badge](https://img.shields.io/badge/license-apache2-orange)<br />
+![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
 Automatically generate ReadMe files.
